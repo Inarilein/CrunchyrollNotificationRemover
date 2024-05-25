@@ -1,6 +1,7 @@
+## Description
+
 A Chrome extension, to hiding the annoying red notification bubble, if you're logged in on Crunchyroll. Also works on Opera.
 Yes, I know there are some notification settings, but for some reasons, this still shows up, so I decidet to create a plugin, to hide it.
-Open Source: https://github.com/Inarilein/CrunchyrollNotificationRemover 
 
 ## Installation
 
