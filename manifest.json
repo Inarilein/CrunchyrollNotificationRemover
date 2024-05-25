@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Crunchyroll Notification Hider",
+    "version": "1.1",
+    "description": "A Chrome extension, to hiding the annoying red notification bubble, if you're logged in on Crunchyroll. Also works on Opera.",
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    },
+    "permissions": [
+      "activeTab",
+      "declarativeContent"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["*://www.crunchyroll.com/*"],
+        "js": ["content.js"],
+        "run_at": "document_end"
+      }
+    ]
+  }
+  
