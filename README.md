@@ -7,7 +7,7 @@ A Chrome extension, to hiding the annoying red notification bubble, if you're lo
 
 1. Download the code or clone the repository:
    ```sh
-   git clone https://github.com/USERNAME/crunchyroll-notification-hider.git
+   git clone https://github.com/Inarilein/crunchyroll-notification-hider.git
    ```
 2. Open Google Chrome and go to `chrome://extensions/`
 3. Activate developer mode (top right)
